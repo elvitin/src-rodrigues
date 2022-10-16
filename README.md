@@ -1,5 +1,23 @@
 Look in: [English](/README_en.md) | Português
 
-# Olá, meu nome é Victor Taveira, seja bem vindo ao meu playground.
+<h1> Quem sou... </h1>
 
-Curso sistemas de informação na [FIPP](https://www.unoeste.br/fipp/), que é um núcleo de tecnologia dentro da segunda melhor universidade particular do Brasil, onde atualmente me encontro no 6º termo. Passei por diversos tipos de disciplinas, que vão desde soft-skills até hard-skills, nelas, inclui-se as disciplinas de gestão, como: Gestão Organizacional, Gestão Financeira, Gestão da Informação e de Sistemas de Informação, Gestão de Processos, dentro outros diversos. Disciplinas de algoritmos e técnicas de programação, estruturas de dados, banco de dados, e muitas outras tecnologias que tive contato, dentre as que já tive contato tanto fora quanto dentro do curso estão (Node.Js, Stack Html, Css, Javascript, C# e ASP.NET, Java Web com Spring Boot, C, C++, Linux e o funcionamento de sistemas operacionais), se quer conhecer melhor a grade da minha formação [clique aqui](https://www.unoeste.br/graduacao/faculdade-de-sistemas-informacao/MatrizCurricular).
+Um curioso que sempre busca aprender, com sonhos à realizar e muitas metas para cumprir 🚀🚀, aqui estão alguns dos meus projetos:
+
+<br/>
+<p align="center"> 
+  <b> 
+    <a href="https://github.com/src-rodrigues/one-crypter" target="_blank">ONE crypter</a>
+  </b>
+</p>
+
+Uma ferramenta que criptografa e descriptografa um texto qualquer, desenvolvida com tecnologias Web durante o programa estudos [ONE](https://www.oracle.com/br/one).
+
+<details>
+<summary>👈🏽 <strong>Prévia</strong></summary>
+  <br />
+  <div align="center">
+    <img src="./images/one-crypter-desktop-sample-with-border.png" width="76.5%">
+    <img src="./images/one-crypter-phone-sample-cropped.png" width="21.5%">
+  </div>
+</details>
